@@ -1,0 +1,40 @@
+body  {
+
+    font:20x Verdana, sams-serif;
+}
+ 
+.navbar {
+    background-color: #C39BD3;
+}
+
+.quem-somos  {
+    background-color: #F2F3F4;
+    color: #C39BD3;   
+
+}
+
+.margin {
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+.produtos {
+    background-color: #F8F9F9;
+    color:pink
+    
+}
+
+.duvidasfrequentes{
+    background-color: beige;
+    color: blueviolet;
+}
+
+.duvidasfrequentes2 {
+    font: verdana;
+    color: black;
+}
+
+.footer {
+    background-color: beige;
+    color: black;
+
+}
